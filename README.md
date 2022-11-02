@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-singh-techie&label=Profile%20views&color=0e75b6&style=flat" alt="anand-singh-techie" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **java,dsa**
 
