@@ -28,7 +28,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/anandtechie143/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-0e76a8?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Anand Singh" height="30" width="100"></a>
 <a href="https://instagram.com/mrextinct9999" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-fbad50?&style=for-the-badge&logo=instagram&logoColor=black" alt="mrextinct9999" height="30" width="120" /></a>
-<a href="https://instagram.com/mrextinct9999" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-fbad50?&style=for-the-badge&logo=instagram&logoColor=black" alt="mrextinct9999" height="30" width="120" /></a>
 <a href="https://www.hackerrank.com/@dec07_anand" target="blank"><img align="center" src="https://img.shields.io/badge/-hackerrank-green?&style=for-the-badge&logo=hackerrank&logoColor=black" alt="@dec07_anand" height="30" width="120" /></a>
 <a href="https://leetcode.com/AnandSinghtechie/" target="blank"><img align="center" src="https://img.shields.io/badge/-leetcode-orange?&style=for-the-badge&logo=leetcode&logoColor=black" alt="AnandSinghtechie" height="30" width="100" /></a>
 <a href="https://github.com/Anand-Singh-techie" target="blank"><img align="center" src="https://img.shields.io/badge/-Github-black?&style=for-the-badge&logo=github&logoColor=white" alt="Anand-Singh-techie" height="30" width="100" /></a>
