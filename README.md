@@ -33,7 +33,7 @@
 <a href="https://leetcode.com/AnandSinghtechie/" target="blank"><img align="center" src="https://img.shields.io/badge/-leetcode-orange?&style=for-the-badge&logo=leetcode&logoColor=black" alt="AnandSinghtechie" height="30" width="100" /></a>
 <a href="https://github.com/Anand-Singh-techie" target="blank"><img align="center" src="https://img.shields.io/badge/-Github-black?&style=for-the-badge&logo=github&logoColor=white" alt="Anand-Singh-techie" height="30" width="100" /></a>
 <a href="https://discord.gg/#8455" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blue?&style=for-the-badge&logo=discord&logoColor=white" alt="#8455" height="30" width="100" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/anandtechie_14" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-c14438?&style=for-the-badge&logo=codeChef&logoColor=black" height="30" width="100" /></a>
+<a href="https://www.codechef.com/users/anandtechie_14" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-c14438?&style=for-the-badge&logo=codeChef&logoColor=black" height="30" width="100" /></a>
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
