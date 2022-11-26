@@ -26,10 +26,14 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-<a href="https://twitter.com/@anandsitechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anandsitechie" height="30" width="40" /></a>
-<a href="https://instagram.com/mrextinct99999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrextinct99999" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@dec07_anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dec07_anand" height="30" width="40" /></a>
-<a href="https://discord.gg/#8455" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8455" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anandtechie143/" target="blank"><img align="center" src="https://img.shields.io/badge/-linkedin-0e76a8?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Anand Singh" height="30" width="100"></a>
+<a href="https://instagram.com/mrextinct9999" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-fbad50?&style=for-the-badge&logo=instagram&logoColor=black" alt="mrextinct9999" height="30" width="120" /></a>
+<a href="https://instagram.com/mrextinct9999" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-fbad50?&style=for-the-badge&logo=instagram&logoColor=black" alt="mrextinct9999" height="30" width="120" /></a>
+<a href="https://www.hackerrank.com/@dec07_anand" target="blank"><img align="center" src="https://img.shields.io/badge/-hackerrank-green?&style=for-the-badge&logo=hackerrank&logoColor=black" alt="@dec07_anand" height="30" width="120" /></a>
+<a href="https://leetcode.com/AnandSinghtechie/" target="blank"><img align="center" src="https://img.shields.io/badge/-leetcode-orange?&style=for-the-badge&logo=leetcode&logoColor=black" alt="AnandSinghtechie" height="30" width="100" /></a>
+<a href="https://github.com/Anand-Singh-techie" target="blank"><img align="center" src="https://img.shields.io/badge/-Github-black?&style=for-the-badge&logo=github&logoColor=white" alt="Anand-Singh-techie" height="30" width="100" /></a>
+<a href="https://discord.gg/#8455" target="blank"><img align="center" src="https://img.shields.io/badge/-Discord-blue?&style=for-the-badge&logo=discord&logoColor=white" alt="#8455" height="30" width="100" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/anandtechie_14" target="blank"><img align="center" src="https://img.shields.io/badge/-CodeChef-c14438?&style=for-the-badge&logo=codeChef&logoColor=black" height="30" width="100" /></a>
 </p>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
