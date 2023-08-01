@@ -7,7 +7,7 @@
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=anand-singh-techie&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22anand-singh-techie%22)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Anand-Singh-techie)
+[![Github](https://img.shields.io/github/followers/Anand-Singh-techie?label=Follow&style=social)](https://github.com/Anand-Singh-techie)
 
 <div size='20px'> Hi! My name is Anand. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
